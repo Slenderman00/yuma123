@@ -1,1 +1,0 @@
-../yang-conformance/check-yang-conformance.sh

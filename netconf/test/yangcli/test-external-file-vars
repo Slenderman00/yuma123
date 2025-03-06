@@ -1,3 +1,0 @@
-#!/bin/bash -e
-cd external-file-vars
-./run.sh

@@ -1,4 +1,0 @@
-#!/bin/bash -e
-cd yang-1dot1-conformance
-./run.sh
-

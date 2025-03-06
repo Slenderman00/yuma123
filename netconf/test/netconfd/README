@@ -1,7 +1,0 @@
-If you have installed netconfd, python-ncclient, python-paramiko and python-lxml and configured OpenSSH to accept netconf connections on port 830 then:
-
-autoreconf -i -f
-./configure --prefix=/usr
-make
-sudo make install
-make check

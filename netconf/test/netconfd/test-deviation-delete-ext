@@ -1,5 +1,0 @@
-#!/bin/sh
-
-set -e
-cd deviation-delete-ext
-./test-deviation-delete-ext.sh

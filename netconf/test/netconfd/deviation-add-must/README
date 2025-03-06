@@ -1,5 +1,0 @@
-PURPOSE:
- Verify deviation adding must statement validation works.
-
-OPERATION:
- Uses deviation to add must statement to /interfaces/interface allowing only interface named 'foo' to be configured. Validates 'foo' is accepted and 'bar' rejected.

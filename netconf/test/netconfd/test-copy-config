@@ -1,3 +1,0 @@
-#!/bin/bash -e
-cd copy-config
-./run.sh

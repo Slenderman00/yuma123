@@ -1,3 +1,0 @@
-#!/bin/bash -e
-cd interactive-container-edits
-./run.sh

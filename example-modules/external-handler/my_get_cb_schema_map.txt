@@ -1,1 +1,0 @@
-/interfaces-state/interface/oper-status

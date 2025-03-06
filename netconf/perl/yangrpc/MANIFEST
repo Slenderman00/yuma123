@@ -1,8 +1,0 @@
-Changes
-Makefile.PL
-MANIFEST
-ppport.h
-README
-yangrpc.xs
-t/yangrpc.t
-lib/yangrpc.pm

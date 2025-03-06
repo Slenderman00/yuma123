@@ -1,3 +1,0 @@
-This testcase downloads and installs OpenDaylight configures NETCONF northbound interface and creates topology of netconfd nodes connected as southbound NETCONF.
-
-

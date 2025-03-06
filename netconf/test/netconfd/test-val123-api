@@ -1,3 +1,0 @@
-#!/bin/bash -e
-cd val123-api
-./run.sh
