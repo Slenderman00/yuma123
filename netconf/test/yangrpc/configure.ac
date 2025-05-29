@@ -1,4 +1,4 @@
-AC_INIT([yangrpc-test-suite], [2.14], [vladimir@lightside-instruments.com])
+AC_INIT([yangrpc-test-suite], [2.15], [vladimir@lightside-instruments.com])
 
 AC_CANONICAL_SYSTEM
 
@@ -21,7 +21,8 @@ AC_SUBST(CFLAGS)
 
 AC_CONFIG_FILES([
         Makefile
-	get/Makefile
+        get/Makefile
+	multi-session/Makefile
 ])
 
 AC_OUTPUT
